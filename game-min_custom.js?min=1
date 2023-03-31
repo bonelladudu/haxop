@@ -1,21 +1,3 @@
-/**
- * 
- * OP mode, chat bubble and fake ping by gabius & Juze
- * 
- * This is a modification of Haxball's game source
- * 
- * UPDATE V2 - Added /fakecommand command.
- * 
- * USAGE
- * 
- * CTRL to turn OP mode on/off
- * /chat_bubble command to turn chat bubble on/off
- * /ping <value> command to change ping
- * /opmode <value> to change OP Mode value. Default is 10 (This is completely optional)
- * /fakecommand <command_name> to fake the "Unrecognized command" message and bypass anti-opmode confirmations in some leagues.
- * 
- */
-
 (function (qc) {
     function hc() { }
     function r() { }
